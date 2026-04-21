@@ -1,0 +1,25 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "apoisdpoasdasd",
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/Mazram826/nodeJsLearning#readme",
+  "bugs": {
+    "url": "https://github.com/Mazram826/nodeJsLearning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mazram826/nodeJsLearning.git"
+  },
+  "license": "ISC",
+  "author": "Mazram",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
